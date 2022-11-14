@@ -1,0 +1,24 @@
+{
+    "name": "Rute Milana",
+    "job": "Dev Jr.",
+    "github": "rutemiliana",
+    "playlists": {
+        
+        "jogos":[
+            {
+                "title": "Algum título",
+                "url": "link",
+                "thumb": "thumbmail do vídeo"
+            }
+        ],
+
+        "frontend": [
+            {
+                "title": "Algum título",
+                "url": "link",
+                "thumb": "thumbmail do vídeo"
+            }
+        ]
+    }
+    
+}
